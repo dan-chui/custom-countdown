@@ -5,7 +5,7 @@ Mobile responsive Countdown page to an event that uses local storage. Inspired b
 
 ## Tech Stack
 
-Front-End: HTML, CSS, JavaScript
+**Front-End:** HTML, CSS, JavaScript
 
 ## Installation
 
