@@ -1,6 +1,6 @@
 # Custom Countdown
 
-Mobile responsive Countdown page to an event that uses local storage. Inspired by ZTM.
+Event countdown page that uses local storage. Inspired by ZTM.
 
 
 ## Tech Stack
